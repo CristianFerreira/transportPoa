@@ -1,0 +1,7 @@
+{
+    "/api": {
+      "target": "http://www.poatransporte.com.br/php/facades/process.php",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
